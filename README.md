@@ -2,4 +2,4 @@
 Thingworx Tutorial 
 
 
-[![Connect Thingworx with external Database]](https://youtu.be/CotWs5iNOX4)
+[![Connect Thingworx with external Database](https://www.linkpicture.com/q/Picture1_24.png)](https://youtu.be/CotWs5iNOX4)
