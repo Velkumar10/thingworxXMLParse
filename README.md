@@ -2,4 +2,4 @@
 Thingworx Tutorial 
 
 
-[![Connect Thingworx with external Database](https://ibb.co/MVvjX2g)](https://youtu.be/6i0u00EUIsQ)
+[![Connect Thingworx with external Database](https://i.ibb.co/VS1hKjL/1.png)](https://youtu.be/6i0u00EUIsQ)
